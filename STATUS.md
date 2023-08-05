@@ -60,9 +60,6 @@
 ## kubestate-metrics
 [![build build](https://github.com/kustomhippie/kubestate-metrics/actions/workflows/build.yml/badge.svg)](https://github.com/kustomhippie/kubestate-metrics/actions/workflows/build.yml) [![linter build](https://github.com/kustomhippie/kubestate-metrics/actions/workflows/linter.yml/badge.svg)](https://github.com/kustomhippie/kubestate-metrics/actions/workflows/linter.yml) [![release build](https://github.com/kustomhippie/kubestate-metrics/actions/workflows/release.yml/badge.svg)](https://github.com/kustomhippie/kubestate-metrics/actions/workflows/release.yml)
 
-## longhorn
-[![build build](https://github.com/kustomhippie/longhorn/actions/workflows/build.yml/badge.svg)](https://github.com/kustomhippie/longhorn/actions/workflows/build.yml) [![linter build](https://github.com/kustomhippie/longhorn/actions/workflows/linter.yml/badge.svg)](https://github.com/kustomhippie/longhorn/actions/workflows/linter.yml) [![lock build](https://github.com/kustomhippie/longhorn/actions/workflows/lock.yml/badge.svg)](https://github.com/kustomhippie/longhorn/actions/workflows/lock.yml) [![react build](https://github.com/kustomhippie/longhorn/actions/workflows/react.yml/badge.svg)](https://github.com/kustomhippie/longhorn/actions/workflows/react.yml)
-
 ## mariadb
 [![build build](https://github.com/kustomhippie/mariadb/actions/workflows/build.yml/badge.svg)](https://github.com/kustomhippie/mariadb/actions/workflows/build.yml) [![linter build](https://github.com/kustomhippie/mariadb/actions/workflows/linter.yml/badge.svg)](https://github.com/kustomhippie/mariadb/actions/workflows/linter.yml) [![release build](https://github.com/kustomhippie/mariadb/actions/workflows/release.yml/badge.svg)](https://github.com/kustomhippie/mariadb/actions/workflows/release.yml)
 
