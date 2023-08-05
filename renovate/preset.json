@@ -42,8 +42,8 @@
         {
             "description": "Build tool version upgrades",
             "groupName": "build tools",
-            "fileMatch": [
-                "^.github/(?:workflows|actions)/.+\\.ya?ml$"
+            "matchManagers": [
+                "github-actions"
             ],
             "semanticCommitType": "ci",
             "semanticCommitScope": "tools",
