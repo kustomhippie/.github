@@ -20,7 +20,9 @@ Octokit::Client.new(
       name: row.name,
       workflows: workflows
     }
-  end
+  rescue StandardError
+    nil
+  end.compact
 
   File.write(
     File.expand_path(
